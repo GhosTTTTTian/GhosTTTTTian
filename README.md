@@ -7,4 +7,4 @@
 Slime Molds Breeder： 
 
 
-![Image](https://raw.githubusercontent.com/GhosTTTTTian/Slime_Mold/master/IMG_4662.HEIC)
+![Image](https://github.com/GhosTTTTTian/Slime_Mold/raw/main/IMG_4662.HEIC)
