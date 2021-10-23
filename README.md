@@ -5,8 +5,10 @@
 - 😄 Pronouns: She/ Her/ Hers
 
 Slime Molds Breeder： 
-![Image text](https://github.com/GhosTTTTTian/Slime_Mold/raw/main/IMG_4662.HEIC)
-<!--
+
+
+![Image text](https://raw.githubusercontent.com/GhosTTTTTian/Slime_Mold/master/IMG_4662.HEIC))
+
 **GhosTTTTTian/GhosTTTTTian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
