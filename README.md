@@ -1,10 +1,10 @@
 ### Nice MEETING YOU 👻
 
-- 💜 Electrical Engineering, Tandon School of Engineering, New York University
+- Electrical Engineering, Tandon School of Engineering, New York University
 
-- 😄 Pronouns: She/ Her/ Hers
+- Pronouns: She/ Her/ Hers
 
 Slime Molds Breeder： 
 
 
-![Image](https://github.com/GhosTTTTTian/GhosTTTTTian.github.io/raw/main/img/B7C8AAFD-4453-42F6-8D58-679B39A870A8.heic)
+![Image](https://github.com/GhosTTTTTian/GhosTTTTTian/raw/main/img/62FBAFAF-65DD-4403-8431-912B5B6A4423.heic)
