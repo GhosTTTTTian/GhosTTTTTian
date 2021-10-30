@@ -4,7 +4,7 @@
 
 - ⚡️ Pronouns: She/ Her/ Hers
 
--  Music X Lab, NYU Shanghai
+-  ⛰ Music X Lab, NYU Shanghai
 
 - ⚛️ DSP, Image Processing, Computer Music, Acoustic, Biocomputing
 
