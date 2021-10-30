@@ -4,6 +4,8 @@
 
 - ⚡️ Pronouns: She/ Her/ Hers
 
+-  Music X Lab, NYU Shanghai
+
 - ⚛️ DSP, Image Processing, Computer Music, Acoustic, Biocomputing
 
 - 🆒 Slime Molds Breeder, Music Coder
