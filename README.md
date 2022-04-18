@@ -2,7 +2,7 @@
 
 - 💜 Electrical Engineering, Tandon School of Engineering, New York University
 
-- ⚡️ Pronouns: She/ Her/ Hers
+- 🧬 Biomedical Engineering, Carnegie Mellon University
 
 -  ⛰ Music X Lab, NYU Shanghai
 
