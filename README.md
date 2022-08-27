@@ -1,8 +1,8 @@
 ### Nice MEETING YOU 👻
 
-- 💜 Electrical Engineering, Tandon School of Engineering, New York University
-
 - 🧬 Biomedical Engineering, Carnegie Mellon University
+
+- 💜 Electrical Engineering, Tandon School of Engineering, New York University
 
 -  ⛰ Music X Lab, NYU Shanghai
 
