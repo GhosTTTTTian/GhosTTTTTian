@@ -4,7 +4,9 @@
 
 - 💜 Electrical Engineering, Tandon School of Engineering, New York University
 
--  ⛰ Music X Lab, NYU Shanghai
+- 🔬 Biophotonics Lab & Lab in Multisensory Neuroscience, CMU
+
+-  🎹 Music X Lab, NYU Shanghai
 
 - ⚛️ DSP, Image Processing, Computer Music, Acoustic, Biocomputing
 
