@@ -1,12 +1,6 @@
 ### Nice MEETING YOU 👻
 
-- 🧬 Biomedical Engineering, Carnegie Mellon University
-
-- 💜 Electrical Engineering, Tandon School of Engineering, New York University
-
-- 🔬 Biophotonics Lab & Lab in Multisensory Neuroscience, CMU
-
--  🎹 Music X Lab, NYU Shanghai
+- 🔬 Imaging Science, 🧬 Biomedical Engineering, 💜 Electrical Engineering
 
 - ⚛️ DSP, Image Processing, Computer Music, Acoustic, Biocomputing
 
